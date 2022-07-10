@@ -1,6 +1,6 @@
 //input one int and then one line from user
 import java.util.*;
-class demoscanintstring{
+class demo{
 	public static void main(String ar[]){
 		
 		int a;
@@ -12,7 +12,7 @@ class demoscanintstring{
 		a=scobj.nextInt();
 		System.out.println(a);
 		
-		c=scobj.nex().charAt(0);
+		c=scobj.next().charAt(0);
 		System.out.println(c);
 
 		s1=scobj.nextLine();

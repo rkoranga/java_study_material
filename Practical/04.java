@@ -24,7 +24,7 @@ class box{
 	}
 }
 
-class demobox{
+class demo{
 	public static void main(String ar[]){
 		
 		box obj1, obj2;
